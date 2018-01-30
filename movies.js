@@ -7,8 +7,7 @@ module.exports ={
   }
   qualification :"BE(ECE)",
   profession:"Software Engineer",
-  place : "Bangalore",
-  mobNo:"9538939082"
+  place : "Bangalore"
 
 };
 
